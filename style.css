@@ -1,0 +1,20 @@
+header {
+  text-align: center;
+}
+
+form {
+  display: flex;
+}
+
+input {
+  flex: 1;
+}
+
+button {
+  padding: 10px;
+}
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd; 
+}
